@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "66e92dc9d8e1fa96dcfac405"
+  },
+  "title": "Handmade",
+  "categoryId": {
+    "$oid": "66d038789b68444f7331502b"
+  },
+  "sellerId": {
+    "$oid": "66d04e14c0a547380df3d6a1"
+  },
+  "description": "handmade furnitures",
+  "price": "699",
+  "unitOfMeasure": "Set",
+  "picture": "1726557640822-F2.jpg",
+  "adminAmount": "80",
+  "transactionId": "345673543",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-09-17T07:20:42.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T15:15:32.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec4217d947610478b47c04"
+  },
+  "title": "Best artworks",
+  "categoryId": {
+    "$oid": "66d038689b68444f73315027"
+  },
+  "sellerId": {
+    "$oid": "66d04e14c0a547380df3d6a1"
+  },
+  "description": "Artsense painting for wall decoration Abstract wall painting for living room big size painting for home decoration",
+  "price": "1999",
+  "unitOfMeasure": "Piece",
+  "picture": "1726759446960-W1.jpg",
+  "adminAmount": "199",
+  "transactionId": "18678568",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-09-19T15:24:07.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T15:24:16.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec4325d947610478b47c75"
+  },
+  "title": "Chips",
+  "categoryId": {
+    "$oid": "66d038e69b68444f7331502f"
+  },
+  "sellerId": {
+    "$oid": "66d04e14c0a547380df3d6a1"
+  },
+  "description": "Buy Potato Chips Online - Order Potato Chips at Best Price",
+  "price": "40",
+  "unitOfMeasure": "Pack",
+  "picture": "1726759717517-S1.jpg",
+  "adminAmount": "10",
+  "transactionId": "2132432",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-09-19T15:28:37.529Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T15:28:56.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ec458ad947610478b47d41"
+  },
+  "title": " CHOCOLATE  CAKE",
+  "categoryId": {
+    "$oid": "66d038ee9b68444f73315033"
+  },
+  "sellerId": {
+    "$oid": "66ec44aed947610478b47ce6"
+  },
+  "description": "FULLY LOADED CHOCOLATE TRUFFLE CAKE",
+  "price": "1999",
+  "unitOfMeasure": "Piece",
+  "picture": "1726760330302-K3.jpg",
+  "adminAmount": "199",
+  "transactionId": "45345",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-09-19T15:38:50.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-19T15:38:55.764Z"
+  },
+  "__v": 0
+}]

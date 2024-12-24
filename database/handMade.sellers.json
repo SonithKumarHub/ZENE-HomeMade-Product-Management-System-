@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "66d0373a9b68444f73315002"
+  },
+  "name": "Sonith",
+  "phone": "9876543210",
+  "email": "sonithkumar789@gmail.com",
+  "password": "$2a$10$61xjQdXwruR6b.Z5sSsRxuA8dJk0fDlHERnwI2helhxE47..zzROi",
+  "profile": "seller.jpg",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-08-29T08:54:20.204Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T14:44:04.522Z"
+  },
+  "__v": 0,
+  "qrCode": "1724922628782-Sonithqrcode.jpg"
+},
+{
+  "_id": {
+    "$oid": "66d04e14c0a547380df3d6a1"
+  },
+  "name": "Sonith Kumar",
+  "phone": "879867675",
+  "email": "sonithkumar123@gmail.com",
+  "password": "$2a$10$tUrPPC8lBe.IoN2GEGr1z.91yYmHSd8p73Lf19bGdNn9WKI/EVLjW",
+  "profile": "seller.jpg",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-08-29T10:31:48.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-17T07:18:04.439Z"
+  },
+  "__v": 0,
+  "qrCode": "1726557484177-qrcode2.png"
+},
+{
+  "_id": {
+    "$oid": "66d04e76c0a547380df3d6a7"
+  },
+  "name": "Pavan",
+  "phone": "9048284244",
+  "email": "pavan123@gmail.com",
+  "password": "$2a$10$BN5eE2ajXnzaNJDwPVsBEuRkHdfi/DYHWG86LkmLPdvbEk5h7XGze",
+  "profile": "seller.jpg",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-08-29T10:33:26.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T10:33:26.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5ce2bb5e747eee74d208f"
+  },
+  "name": "Vishanth",
+  "phone": "998878445778",
+  "email": "Vishanth123@gmail.com",
+  "password": "$2a$10$EtZaEoP18Kk9UUMFiSfNp.U10mPxRXlQO91TksVdIG0ky8aSD3MLC",
+  "profile": "seller.jpg",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-09-02T14:39:39.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T14:39:39.370Z"
+  },
+  "__v": 0
+}]

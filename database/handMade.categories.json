@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66b744e909bf5362b684d098"
+  },
+  "title": "Wooden",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-08-10T10:46:01.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T11:12:55.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b744f709bf5362b684d09c"
+  },
+  "title": "Glass",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-08-10T10:46:15.866Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T10:46:15.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b7477bf8be3b9a3a9ac247"
+  },
+  "title": "Plastic",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-08-10T10:56:59.845Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-10T10:57:09.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5c32d8540d7a6f43b102f"
+  },
+  "title": "Cotton",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-08-21T10:36:29.768Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-21T10:36:29.768Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66d03e289b68444f733150b5"
+  },
+  "name": "Pavan",
+  "phone": "8970763465",
+  "email": "pavan123@gmail.com",
+  "password": "$2a$10$92kWgQa9Bu10z./qxQ3TuefFe9dPTVB8Jh8WWAGAhzaztI6Qt3Lk.",
+  "profile": "buyer.jpg",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-08-29T09:23:53.068Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-30T03:41:59.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d14e23c65491ddcbd7bad0"
+  },
+  "name": "Uday",
+  "phone": "90876545672",
+  "email": "uday1234@gmail.com",
+  "password": "$2a$10$gV0GPucK39TSQqCuiZq9tOdFjnYvgefj0UUBbKOLcKphD/kF.Y/zi",
+  "profile": "buyer.jpg",
+  "status": "Active",
+  "createdAt": {
+    "$date": "2024-08-30T04:44:19.971Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-30T04:44:19.971Z"
+  },
+  "__v": 0
+}]
